@@ -1,4 +1,4 @@
-# Seoyeong Choi
+# Seoyeong Choy
 
 Backend developer and graduate student specializing in scalable systems and LLM serving optimization.  
 I focus on writing clean code, performance optimization, and collaborative development.
